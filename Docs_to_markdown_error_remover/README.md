@@ -13,3 +13,14 @@
 
 ``` ./dtm_eror_remover.sh /relative_path/file.md ```
 
+**Input:**
+```Some text
+![alt_text](images/image37.png "image_tooltip")
+Another line
+Line without an image tag
+```
+**Output:**
+```Some text
+Another line
+Line without an image tag
+```
