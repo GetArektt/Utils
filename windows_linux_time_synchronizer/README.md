@@ -16,7 +16,7 @@ The script performs the following steps:
 
 ## Usage
 1. Clone this repository to your local system.
-`git clone https://github.com/GetArektt/Utils/tree/main/windows_linux_time_synchronizer`
+`git clone https://github.com/GetArektt/Utils.git`
 
 2. Navigate to the project directory.
 `cd windows_linux_time_synchronizer`
